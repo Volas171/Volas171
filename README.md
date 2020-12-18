@@ -29,6 +29,7 @@
 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volas171&langs_count=10&theme=tokyonight&layout=compact" alt="Volas171 :: Top Langs" /></p>
+[![fun](https://github-readme-stats.vercel.app/api/wakatime?username=Volas171)](alex-stats.ddns.net)
 
 
 
