@@ -11,7 +11,6 @@
   <a href="https://discord.gg/hN4Kz9HCdF">
     <img src="https://shields.io/discord/651737864593211394?&style=flat-square&logoColor=white">
   </a>
-  </div>
   
   <a href="https://github.com/Volas171">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
@@ -26,7 +25,6 @@
 <hr>
 
 </div>
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=Volas171&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
