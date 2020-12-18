@@ -9,7 +9,7 @@
 <p align="center">
   <br/>
   <a href="https://discord.gg/hN4Kz9HCdF">
-    <img src="https://shields.io/discord/651737864593211394?&style=flat-square&logoColor=white">
+    <img src="https://shields.io/discord/767015273207037992">
   </a>
   
   <a href="https://github.com/Volas171">
