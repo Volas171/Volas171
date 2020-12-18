@@ -15,8 +15,6 @@
   <a href="https://github.com/Volas171">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
- <img src="https://github.com/anuraghazra/github-readme-stats/issues">  
-<img src="https://github.com/anuraghazra/github-readme-stats/pulls">  
 </p>
 </h1>
 
