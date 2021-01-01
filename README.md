@@ -27,6 +27,7 @@
 
 <details>
 <summary>📈 My GitHub Stats</summary>
+  
 ![Volas171](https://github-readme-stats.vercel.app/api?username=Volas171&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volas171&langs_count=10&theme=tokyonight&layout=compac)
@@ -34,7 +35,7 @@
 ![oh no GitHub metrics](https://metrics.lecoq.io/Volas171)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Volas171&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<details>
 
 
 
