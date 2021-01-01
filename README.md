@@ -25,11 +25,13 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Volas171&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true" align="left"/>
+![Volas171](https://github-readme-stats.vercel.app/api?username=Volas171&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volas171&langs_count=10&theme=tokyonight&layout=compac)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volas171&langs_count=10&theme=tokyonight&layout=compact" alt="Volas171 :: Top Langs" /><p align="right"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Volas171"/>
-</p>
+![oh no GitHub metrics](https://metrics.lecoq.io/WilloIzCitron)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Volas171)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
