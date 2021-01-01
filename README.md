@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volas171&langs_count=10&theme=tokyonight&layout=compac)
 
-![oh no GitHub metrics](https://metrics.lecoq.io/WilloIzCitron)
+![oh no GitHub metrics](https://metrics.lecoq.io/Volas171)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Volas171)](https://github.com/ryo-ma/github-profile-trophy)
 
