@@ -1,6 +1,6 @@
 ![gay](https://cdn.discordapp.com/attachments/659546787677470720/765238360905613342/unknown.png)
 
-- 📫 How to reach me:  60143910+Volas171@users.noreply.github.com 
+##-Contact: 60143910+Volas171@users.noreply.github.com - VolasYouKnow#0011 on discord
 
   <!-- https://shields.io/discord/651737864593211394?&style=flat-square&logoColor=white -->
 
