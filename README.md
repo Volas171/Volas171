@@ -5,7 +5,7 @@ A: Currently hosting o7fire.tk and 2 mindustry servers.
 
 
 ## -Contact: 
-### volas@o7fire.tk - VolasYouKnow#0007 on discord
+### volas@o7fire.tk - VolasYouDontKnow#0007 on discord
 
   <!-- https://shields.io/discord/651737864593211394?&style=flat-square&logoColor=white -->
 
