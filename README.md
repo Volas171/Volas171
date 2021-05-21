@@ -1,7 +1,7 @@
 Q: What are you doing
 
 A: Currently hosting o7fire.tk and 2 mindustry servers.
-<iframe src="https://discord.com/widget?id=839297157836308520&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ![gay](https://cdn.discordapp.com/attachments/659546787677470720/765238360905613342/unknown.png)
 
 
