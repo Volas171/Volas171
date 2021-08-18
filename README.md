@@ -6,7 +6,7 @@ A: Currently hosting 2 mindustry servers.
 
 
 ## -Contact: 
-### volas@mindustry.me - VolasYouDontKnow#0007 on discord
+### volas@mindustry.me - Akimov#1416 on discord
 
   <!-- https://shields.io/discord/651737864593211394?&style=flat-square&logoColor=white -->
 
