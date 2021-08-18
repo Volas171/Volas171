@@ -1,12 +1,12 @@
 Q: What are you doing
 
-A: Currently hosting o7fire.tk and 2 mindustry servers.
+A: Currently hosting 2 mindustry servers.
 
 ![gay](https://cdn.discordapp.com/attachments/659546787677470720/765238360905613342/unknown.png)
 
 
 ## -Contact: 
-### volas@o7fire.tk - VolasYouDontKnow#0007 on discord
+### volas@mindustry.me - VolasYouDontKnow#0007 on discord
 
   <!-- https://shields.io/discord/651737864593211394?&style=flat-square&logoColor=white -->
 
