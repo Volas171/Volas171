@@ -1,6 +1,6 @@
 Q: What are you doing
 
-A: Currently hosting 2 mindustry servers.
+A: Currently managing a hosting service named Yeet Hosting.
 
 ![gay](https://cdn.discordapp.com/attachments/659546787677470720/765238360905613342/unknown.png)
 
