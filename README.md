@@ -6,7 +6,7 @@ A: Currently managing a hosting service named Yeet Hosting.
 
 
 ## -Contact: 
-### volas@mindustry.me - Akimov#1416 on discord
+### volas@mindustry.me
 
   <!-- https://shields.io/discord/651737864593211394?&style=flat-square&logoColor=white -->
 
