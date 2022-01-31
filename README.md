@@ -1,6 +1,6 @@
 Q: What are you doing
 
-A: Currently managing a hosting service named
+A: Currently the one in charge of a really cheap hosting service named
 ```
        __     __       _     _    _           _   _
        \ \   / /      | |   | |  | |         | | (_)
@@ -11,6 +11,7 @@ A: Currently managing a hosting service named
                                                            __/ |
                                                           |___/
 ```
+more info on https://mindustry.me/
 
 funny screenshot:
 
