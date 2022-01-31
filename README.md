@@ -12,7 +12,7 @@ A: Currently the one in charge of a really cheap hosting service named
                                                           |___/
 ```
 more info on https://www.mindustry.me/
-<p align="center">
+<p align="left">
   <br/>
   <a href="https://com.mindustry.me">
     <img src="https://shields.io/discord/873198636572479588">
