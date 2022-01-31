@@ -11,7 +11,12 @@ A: Currently the one in charge of a really cheap hosting service named
                                                            __/ |
                                                           |___/
 ```
-more info on https://mindustry.me/
+more info on https://www.mindustry.me/
+<p align="center">
+  <br/>
+  <a href="https://com.mindustry.me">
+    <img src="https://shields.io/discord/873198636572479588">
+  </a>
 
 funny screenshot:
 
@@ -24,12 +29,6 @@ funny screenshot:
   <!-- https://shields.io/discord/651737864593211394?&style=flat-square&logoColor=white -->
 
   <!-- https://img.shields.io/badge/Github-Volas171-black&?style=social&logo=Github -->
-
-<p align="center">
-  <br/>
-  <a href="https://discord.gg/hN4Kz9HCdF">
-    <img src="https://shields.io/discord/767015273207037992">
-  </a>
   
   <a href="https://github.com/Volas171">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
