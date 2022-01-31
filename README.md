@@ -1,6 +1,16 @@
 Q: What are you doing
 
-A: Currently managing a hosting service named Yeet Hosting.
+A: Currently managing a hosting service named
+```
+       __     __       _     _    _           _   _
+       \ \   / /      | |   | |  | |         | | (_)
+        \ \_/ /__  ___| |_  | |__| | ___  ___| |_ _ _ __   __ _
+         \   / _ \/ _ \ __| |  __  |/ _ \/ __| __| | '_ \ / _` |
+          | |  __/  __/ |_  | |  | | (_) \__ \ |_| | | | | (_| |
+          |_|\___|\___|\__| |_|  |_|\___/|___/\__|_|_| |_|\__, |
+                                                           __/ |
+                                                          |___/
+```
 
 ![gay](https://cdn.discordapp.com/attachments/659546787677470720/765238360905613342/unknown.png)
 
