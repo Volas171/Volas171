@@ -13,6 +13,7 @@ A: Currently managing a hosting service named
 ```
 
 funny screenshot:
+
 ![gay](https://cdn.discordapp.com/attachments/659546787677470720/765238360905613342/unknown.png)
 
 
