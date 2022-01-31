@@ -17,9 +17,9 @@ more info on https://www.mindustry.me/
   <a href="https://com.mindustry.me">
     <img src="https://shields.io/discord/873198636572479588">
   </a>
-
-<script src="https://liberapay.com/Volas171/widgets/receiving.js"></script>
-
+<img src="https://img.shields.io/liberapay/receives/Volas171.svg?logo=liberapay">
+<img src="https://img.shields.io/liberapay/goal/Volas171.svg?logo=liberapay">
+       
 funny screenshot:
 
 ![gay](https://cdn.discordapp.com/attachments/659546787677470720/765238360905613342/unknown.png)
