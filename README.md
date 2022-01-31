@@ -17,6 +17,7 @@ more info on https://www.mindustry.me/
   <a href="https://com.mindustry.me">
     <img src="https://shields.io/discord/873198636572479588">
   </a>
+
 <script src="https://liberapay.com/Volas171/widgets/receiving.js"></script>
 
 funny screenshot:
