@@ -15,7 +15,7 @@ more info on https://www.mindustry.me/
 <p align="left">
   <br/>
   <a href="https://com.mindustry.me">
-    <img src="https://shields.io/discord/873198636572479588">
+    <img src="https://shields.io/discord/825447040649134101">
   </a>
 <img src="https://img.shields.io/liberapay/receives/Volas171.svg?logo=liberapay">
 <img src="https://img.shields.io/liberapay/goal/Volas171.svg?logo=liberapay">
