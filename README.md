@@ -11,7 +11,7 @@ A: Currently the CEO of a really cheap hosting service named
                                                            __/ |
                                                           |___/
 ```
-more info on https://www.mindustry.me/
+more info on https://www.yeethosting.xyz
 <p align="left">
   <br/>
   <a href="https://com.mindustry.me">
