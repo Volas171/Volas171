@@ -1,6 +1,6 @@
 Q: What are you doing
 
-A: Currently the one in charge of a really cheap hosting service named
+A: Currently the CEO of a really cheap hosting service named
 ```
        __     __       _     _    _           _   _
        \ \   / /      | |   | |  | |         | | (_)
