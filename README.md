@@ -1,6 +1,7 @@
 Q: What are you doing
 
 A: yes
+More info on:
 https://floof.lol/
 
 Q: what have you done:
@@ -14,9 +15,10 @@ A:
 ![image](https://github.com/Volas171/Volas171/assets/60143910/c1f10700-b4d9-4bf7-afb6-63a43b8e1d01)
 ![image](https://github.com/Volas171/Volas171/assets/60143910/f673620e-24f7-4f40-a72b-91fdb1093a33)
 
-Q: Who are you
+<summary>Q: Who are you</summary>
 <summary>A:</summary>
 
+<details>
 proud owner of 9 servers
 
 ![image](https://github.com/Volas171/Volas171/assets/60143910/bc57ef02-8777-4473-8db7-3fd0fd7d23fb)
@@ -31,7 +33,7 @@ proud owner of 9 servers
 ![image](https://github.com/Volas171/Volas171/assets/60143910/2f4cf162-d145-4779-a79a-34cdb43753eb)
 ![image](https://github.com/Volas171/Volas171/assets/60143910/6f6dbb37-c894-403e-bb5a-e911d0fe4620)
 ![image](https://github.com/Volas171/Volas171/assets/60143910/b57aeb61-8ff3-49bc-a4b9-f81a63d7d75c)
-
+</details>
 
 
 
