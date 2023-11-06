@@ -1,7 +1,6 @@
 Q: What are you doing
 
-A: yes
-More info on:
+A: yes, more info on:
 https://floof.lol/
 
 Q: what have you done:
