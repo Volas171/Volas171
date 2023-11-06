@@ -1,10 +1,10 @@
-Q: What are you doing
+<summary>Q: What are you doing</summary>
 
-A: yes, more info on:
-https://floof.lol/
+<summary>A: yes, more info on https://floof.lol/</summary>
 
-Q: what have you done:
-A:
+<summary>Q: what have you done:</summary>
+<summary>A:</summary>
+
 <details>
 ![image](https://github.com/Volas171/Volas171/assets/60143910/816fe633-6031-4002-bfc6-3da41c5dd012)
 
