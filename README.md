@@ -16,7 +16,9 @@ A:
 
 Q: Who are you
 <summary>A:</summary>
+
 proud owner of 9 servers
+
 ![image](https://github.com/Volas171/Volas171/assets/60143910/bc57ef02-8777-4473-8db7-3fd0fd7d23fb)
 ![image](https://github.com/Volas171/Volas171/assets/60143910/9feadeff-9e7e-4677-9d9a-b73890ce68fb)
 ![image](https://github.com/Volas171/Volas171/assets/60143910/b45a09a5-8080-41be-849b-923a9c4f7900)
