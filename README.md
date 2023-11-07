@@ -1,10 +1,7 @@
 # Volas171
-## Fullstack Developer
-### Cloud Engineering
-### Pentesting
-### Risk Management
-### Chaos Engineering
+Fullstack Developer
 
+Experience in: Cloud Engineering, Pentesting, Risk Management, Chaos Engineering and more!
 
 <summary>Q: What are you doing</summary>
 
