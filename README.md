@@ -62,7 +62,7 @@ proud owner of 9 servers
 
 
 
-## -Contact: 
+## Contact: 
 ### volas@mindustry.me
 
   <a href="https://github.com/Volas171">
