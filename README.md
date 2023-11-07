@@ -1,4 +1,10 @@
 # Volas171
+## Fullstack Developer
+### Cloud Engineering
+### Pentesting
+### Risk Management
+### Chaos Engineering
+
 
 <summary>Q: What are you doing</summary>
 
