@@ -1,7 +1,7 @@
 # Volas171
 Fullstack Developer
 
-Experience in: Cloud Engineering, Pentesting, Risk Management, Chaos Engineering and more!
+Experience in: Cloud Engineering, Pentesting, Risk Management, Data Science, Prompt Engineering, Chaos Engineering and more!
 
 <summary>Q: What are you doing</summary>
 
