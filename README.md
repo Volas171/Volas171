@@ -5,7 +5,7 @@ Experience in: Cloud Engineering, Pentesting, Risk Management, Data Science, Pro
 
 <summary>Q: What are you doing</summary>
 
-<summary>A: yes, more info on https://floof.lol/</summary>
+<summary>A: yes, more info on https://mindustry.me/</summary>
 
 <summary>Q: what have you done:</summary>
 <summary>A:</summary>
